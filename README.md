@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/all3n2601/HMSMern.git
+   git clone https://github.com/karan-2028/Hospital-management-system-using-MERN.git
    ```
 2. **Navigate to the project directory:
 
@@ -64,5 +64,5 @@ This project is licensed under the MIT License.
 Thanks to the MERN and Redux TailwindCSS communities for their amazing tools and resources.
 
 ## Contact
-For any inquiries or issues, please contact [allsurej@gmail.com].
+For any inquiries or issues, please contact [karankumar159951@gmail.com].
 
