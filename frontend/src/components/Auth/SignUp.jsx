@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+// eslint-disable-next-line no-unused-vars
 import React,{useState} from 'react'
 import axios from 'axios';
 import { useNavigate } from "react-router-dom";
@@ -27,7 +29,7 @@ function SignUp() {
               navigate("/sign-in");
             }
           })
-          .catch((err) => {
+          .catch((_err) => {
             Swal.fire({
               title: "Error",
               icon: "error",
